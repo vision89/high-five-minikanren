@@ -24,6 +24,5 @@
                       (lefto (list (_) (_) 'Edwina) (list (_) 'Accounting (_)) h)
                       (lefto (list 'Nelson-&-Leopold (_) (_)) (list (_) (_) 'Edwina) h)
                       (lefto (list (_) (_) 'Ogden) (list (_) (_) 'Zed) h)
-                      (any (ntho 1 (list (_) 'Web-Design (_)) h)
-                           (ntho 2 (list (_) 'Web-Design (_)) h))
-                      )))
+                      (any (ntheqo 1 (list (_) 'Web-Design (_)) h)
+                           (ntheqo 2 (list (_) 'Web-Design (_)) h)))))
